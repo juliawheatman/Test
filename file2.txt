@@ -1,0 +1,6 @@
+Welcome !
+
+Thanks for signing up with LeetCode!
+You must follow this link to activate your account: тут должна была быть ссылка, но я не буду её прикреплять.
+
+some changes
